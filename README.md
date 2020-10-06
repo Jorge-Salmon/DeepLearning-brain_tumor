@@ -6,7 +6,7 @@ Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detect
 
 
 <p align="center">
-   <img width="460" height="300" src=[Brain tumor scan](Brain_600.png)>
+   <img width="460" height="300" src=Brain_600.png>
 </p>!
 </p>
 
