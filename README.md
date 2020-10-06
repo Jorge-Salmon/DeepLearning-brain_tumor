@@ -1,5 +1,12 @@
 ## Deep Learning with PyTorch on GPU
 
-Prediction of brain tumor from medical images.
+Model for brain tumor prediction, trained with medical images. 
 
-![Brain tumor scan](Y17.jpg)
+Dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+
+
+<p align="center">
+   <img width="460" height="300" src=Brain_600.png>
+</p>
+
+
